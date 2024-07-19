@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "dmd-api"
+name = "prueba-dmd"
 version = "0.1.0"
 description = "API for DMD"
 authors = ["dgarciazafra <david.garcia.ext@idrica.com>"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/johnfraney/flake8-markdown"
-repository = "https://github.com/johnfraney/flake8-markdown"
+homepage = "https://github.com/dagarzaf/dmd_api"
+repository = "https://github.com/dagarzaf/dmd_api"
 include = [
     "LICENSE",
 ]
