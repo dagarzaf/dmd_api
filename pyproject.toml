@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "dmd-api"
+version = "0.1.0"
+description = "API for DMD"
+authors = ["dgarciazafra <david.garcia.ext@idrica.com>"]
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/johnfraney/flake8-markdown"
+repository = "https://github.com/johnfraney/flake8-markdown"
+include = [
+    "LICENSE",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
